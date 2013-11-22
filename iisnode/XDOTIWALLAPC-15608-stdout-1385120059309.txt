@@ -1,3 +1,7 @@
 Express server listening on port \\.\pipe\2773c00d-550b-4fc2-948c-7509fe2e0a9f
 [90mGET / [32m200 [90m57ms - 170[0m
 [90mGET / [32m200 [90m2ms - 170[0m
+[90mGET / [32m200 [90m2ms - 170[0m
+[90mGET /stylesheets/style.css [33m404 [90m4ms[0m
+[90mGET / [32m200 [90m1ms - 170[0m
+[90mGET /stylesheets/style.css [33m404 [90m1ms[0m
